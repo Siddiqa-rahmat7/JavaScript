@@ -20,4 +20,4 @@ p.__proto__ = {
 a.__proto__ = p
 
 a.run()
-console.log(a.code)
+console.log(a.codge)
